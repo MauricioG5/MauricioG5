@@ -7,6 +7,5 @@
                                                                    
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MauricioG5&theme=highcontrast&hide_border=true&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MauricioG5&theme=merko&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
